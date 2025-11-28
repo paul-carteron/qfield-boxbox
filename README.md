@@ -18,5 +18,4 @@ fresh form
 
 # Installation
 
-To install the plugin, download the latest release from the releases page
-(coming soon) and follow the [plugin installation guide](https://docs.qfield.org/how-to/plugins/#application-plugins).
+To install the plugin, download the latest release from the [releases page]([url](https://github.com/paul-carteron/qfield-boxbox/releases/tag/v0.1)) and follow the [plugin installation guide](https://docs.qfield.org/how-to/plugins/#application-plugins).
