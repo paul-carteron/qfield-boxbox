@@ -1,0 +1,7 @@
+[general]
+name=BoxBox!
+description=Speeds up repetitive data entry by automatically reopening forms.
+author=Paul CARTERON
+icon=ic_speedometer_col_24dp.svg
+version=1.0
+homepage=https://github.com/paul-carteron/
